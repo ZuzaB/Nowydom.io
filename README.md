@@ -1,3 +1,3 @@
 # Responsive-mailing
-##Demo
+## Demo:
 https://zuzab.github.io/Responsive-mailing/

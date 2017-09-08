@@ -1,4 +1,4 @@
 # Nowydom.io
 Responsive HTML Email.
 ## Demo:
-https://zuzab.github.io/Responsive-mailing/
+https://zuzab.github.io/Nowydom.io/
